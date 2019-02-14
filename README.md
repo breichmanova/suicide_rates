@@ -1,3 +1,3 @@
 # Data analysis of Suicide Rates
 
-A project done with the knowledge acquired from Data Analysis workshop from PyLadies
+A follow-up project after Data Analysis workshop from PyLadies (https://github.com/frenzymadness/Data_analysis_workshop)
